@@ -12,4 +12,4 @@ configured to listen for RTMP transmission and then converting it to HLS via rtm
 
 ## rtmp-relay.sh
 shell script which converts RTMP to HLS via ffmpeg library
-also got some code for changing quality of video and basic error handler
+also got some code for changing quality of video and basic error handling
