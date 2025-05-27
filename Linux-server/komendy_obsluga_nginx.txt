@@ -1,0 +1,2 @@
+# restart serwera nginx
+systemctyl restart nginx.service 

@@ -1,0 +1,10 @@
+{
+  "id": "com.domain.app",
+  "version": "1.0.0",
+  "vendor": "PaTera",
+  "type": "web",
+  "main": "index.html",
+  "title": "Any remote-desktop broadcaster",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
